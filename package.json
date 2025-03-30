@@ -1,0 +1,19 @@
+{
+  "name": "cypress-smart-tests-demo-code",
+  "version": "1.0.0",
+  "description": "demo code for cypress-smart-tests plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress-smart-tests"
+  ],
+  "author": "Chathuranga Jayasinghe",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.2.1",
+    "cypress-smart-tests": "^2.0.0",
+    "typescript": "^5.8.2"
+  }
+}
